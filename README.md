@@ -1,0 +1,2 @@
+# Gohry-health-senter
+Physiotherapiezentrum
